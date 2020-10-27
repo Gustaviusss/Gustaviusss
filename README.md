@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 ## Oi, Eu sou o Gusta!
 
-- ⚡ Mobile developer at work, Games developer at home.
+- ⚡ Mobile developer at work, Game developer at home.
 - 💬 Apaixonado por cultura pop, tecnologia, física, astronomia e comida :)
 - 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
 - 🌱 Aprendendo Dart/Flutter e um pouco de tudo todo dia.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Me localiza lá
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
