@@ -5,7 +5,7 @@
 **Gustaviusss/Gustaviusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ## Oi, Eu sou o Gusta!
 
 - ⚡ Mobile developer at work, Game developer at home.
-- 💬 Apaixonado por cultura pop, tecnologia, física, astronomia e comida :)
+- 🎮 Working on Monochrome...
+- 💬 Apaixonado por cultura pop, tecnologia, física, astronomia, comida e cerveja :)
 - 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
 - 🌱 Aprendendo Dart/Flutter e um pouco de tudo todo dia.
 
