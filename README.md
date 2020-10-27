@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - 💬 Apaixonado por cultura pop, tecnologia, física, astronomia e comida :)
 - 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
 - 🌱 Aprendendo Dart/Flutter e um pouco de tudo todo dia.
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Me localiza lá
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
