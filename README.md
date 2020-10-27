@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 Aprendendo Dart/Flutter e um pouco de tudo todo dia.
 
 ## Me localiza lá
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paitadecelta.blogspot.com]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://paitadecelta.blogspot.com]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/gustavo-henrique-a42b9b174]
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark)
