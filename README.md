@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Gustaviusss/Gustaviusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Oi, Eu sou o Gusta!
+
+- ⚡ Mobile developer at work, Games developer at home.
+- 💬 Apaixonado por cultura pop, tecnologia, física, astronomia e comida :)
+- 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
+- 🌱 Aprendendo Dart/Flutter e um pouco de tudo todo dia.
+
+## Me localiza lá
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][paitadecelta.blogspot.com]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/gustavo-henrique-a42b9b174]
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true)
