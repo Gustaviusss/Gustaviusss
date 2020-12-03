@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-## Me localiza lá
+## Me localiza aí bb
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
