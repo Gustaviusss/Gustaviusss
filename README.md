@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎮 Working on Monochrome...
 - 💬 Apaixonado por cultura pop, tecnologia, física, astronomia, comida e cerveja :)
 - 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
-- 🌱 Aprendendo Dart/Flutter e um pouco de tudo todo dia.
+- 🌱 Aprendendo C# e um pouco de tudo todo dia.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=6&hide=javascript,css)](https://githubpythonghazra/github-readme-stats)
