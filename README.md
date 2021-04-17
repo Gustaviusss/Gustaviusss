@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Oi, Eu sou o Gusta!
 
 - ⚡ Mobile developer at work, Game developer at home.
-- 🎮 Working on Monochrome...
+- 🎮 Working on Twice...
 - 💬 Apaixonado por cultura pop, tecnologia, física, astronomia, comida e cerveja :)
 - 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
 - 🌱 Aprendendo C# e um pouco de tudo todo dia.
