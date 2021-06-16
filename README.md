@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Mobile developer at work, Game developer at home.
 - 🎮 Working on Twice...
 - 💬 Apaixonado por cultura pop, tecnologia, física, astronomia, comida e cerveja :)
-- 🔭 Atualmente trabalhando como programador mobile em tempo integral, programador de games nos fins de semana e escritor quando tenho alguma ideia.
+- 🔭 Atualmente trabalhando como programador de games em tempo integral e escritor quando tenho alguma ideia.
 - 🌱 Aprendendo C# e um pouco de tudo todo dia.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
