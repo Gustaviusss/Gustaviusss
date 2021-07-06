@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Aprendendo C# e um pouco de tudo todo dia.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4)](https://githubpythonghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4&hide_lang=csharp)](https://githubpythonghazra/github-readme-stats)
 
 ## Me localiza aí
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
