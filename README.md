@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 ## Oi, Eu sou o Gusta!
 
-- ⚡ Mobile developer at work, Game developer at home.
-- 🎮 Working on something good...
-- 💬 Apaixonado por cultura pop, tecnologia, física, astronomia, comida e cerveja :)
+- ⚡ Game developer.
+- 🎮 Working on Out Of Time.
+- 💬 Apaixonado por cultura pop, tecnologia, comida e cerveja :)
 - 🔭 Atualmente trabalhando como programador de games em tempo integral e escritor quando tenho alguma ideia.
 - 🌱 Aprendendo C# e um pouco de tudo todo dia.
 
