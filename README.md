@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🎮 Working on GetBack.
 - 💬 Apaixonado por cultura pop, tecnologia, comida e cerveja :)
 - 🔭 Atualmente trabalhando como programador de games em tempo integral e escritor quando tenho alguma ideia.
-- 🌱 Aprendendo C# e um pouco de tudo todo dia.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4)](https://githubpythonghazra/github-readme-stats)
