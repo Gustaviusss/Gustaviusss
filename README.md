@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalhando como programador de games em tempo integral e escritor quando tenho alguma ideia.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4&hide=html,css,typescript,python,swift&exclude_repo=easy-projects,hotels-list,tictactoe,expense_control)](https://githubpythonghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4&hide=html,css,typescript,python,swift&exclude_repo=easy-projects,hotels-list,tictactoe,expense_control,ximioni_games_club,godot-games,pomodoro_clock_flutter,flutter_calculator,Calculadora,frontend-phoenix,phoenix-backend,events-web,Sysdata_React_v2)](https://githubpythonghazra/github-readme-stats)
 
 <!--
 ### Me localiza aí
