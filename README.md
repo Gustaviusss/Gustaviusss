@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 - 💬 Apaixonado por cultura pop, tecnologia, comida e cerveja :)
 - 🔭 Atualmente estudando desenvolvimento de aplicativos móveis com flutter em tempo integral aguardando a próxima oportunidade de entrar no mercado de trabalho.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gustaviusss&count_private=true&show_icons=true&theme=dark&line_height=33)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaviusss&theme=dark&langs_count=4&hide=html,css,typescript,python,swift,&exclude_repo=monochrome,godot-games,ximioni_games_club,guessing-game,call-calculator,Carteirinha_js,frontend-phoenix,phoenix-backend,events-web,Sysdata_React_v2)](https://githubpythonghazra/github-readme-stats)
-
 <!--
 ### Me localiza aí
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
